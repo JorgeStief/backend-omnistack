@@ -1,0 +1,13 @@
+# Environment and secret settings
+.env
+
+# Settings symbolic link
+
+
+/node_modules/
+
+
+
+
+
+
